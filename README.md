@@ -1,3 +1,3 @@
 # My-restaurant
 ## This wireframe for a burger resturant
-[wireframe]()
+![HUMHUM resturant](./fire2.png)
